@@ -5,7 +5,7 @@ To start with we have to get an `API-key` of `Google-Cloud-Vision` in order to u
 <b><h3>Step 1: </h3></b>
 
 <h4>Setting up Your Google Platform Account </h4>
-<h4>Google Cloud Platform Free An account is required to get an api-key.json file. </h4>
+<h4><a href ="https://console.cloud.google.com/home/dashboard">Google Cloud Platform Free </a> An account is required to get an api-key.json file. </h4>
 <Div><UL>
 <li>	Sign-in to Google Cloud Console </li>
 <li>	Click “API Manager” </li>
