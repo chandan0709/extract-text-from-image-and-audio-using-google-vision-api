@@ -25,11 +25,11 @@ To start with we have to get an `API-key` of `Google-Cloud-Vision` in order to u
 Convert the Audio file to .WAV file format. We can use any online tools to do it.
 
 <b><h3>Step 3:(For Audio to text):</h3></b>
-<li>Break up the audio file into smaller parts. Google Cloud Speech API only accepts files no longer than 60 seconds. To be on safe side, either break your files in 30-seconds chunks or select audio file less than 60 seconds.</li> 
+Break up the audio file into smaller parts. Google Cloud Speech API only accepts files no longer than 60 seconds. To be on safe side, either break your files in 30-seconds chunks or select audio file less than 60 seconds.
 
 <h4>Break the large file:</h4>
-<li>We can either use any online tools or we can use an open source command line library called ffmpeg. It can be downloaded from its site and install it in your machine.
-Here is the command to break up the file. <br> </li>
+We can either use any online tools or we can use an open source command line library called ffmpeg. It can be downloaded from its site and install it in your machine.
+Here is the command to break up the file. <br>
 
 First clean out old parts if needed via `rm -rf parts/*`
 Then use the command to break the file. <br>
